@@ -1,14 +1,44 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ejere David
-===================================================================================================================================
+<div>
+  <div align="center">
+   <img width="1212" alt="Screenshot 2025-01-03 at 4 17 34 PM" src="https://github.com/user-attachments/assets/2ba505f9-622c-4db1-ba41-f55f843716cc" />
 
-Web Developer
--------------
+  </div>
+  <br/>
+  <div align="start">
+    
+  ## Hello, I'm David
+  Frontend @YoungandSkilled
 
-👋 Hi there! I'm David, a passionate and creative Frontend Web Developer with a knack for crafting engaging and user-friendly web experiences.
+  ### Catch up with me on:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/david-ejere-5056161a1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/https://twitter.com/Doomsday_Codes](https://x.com/doomsday_codes?s=21)) 
+  [![](https://visitcount.itsvg.in/api?id=davedumto&icon=0&color=0)](https://visitcount.itsvg.in)
+  </div>
+  
+# 💻 What I Know:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Nuxt JS](https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
-*   🌍  I'm based in Nigeria
-*   ✉️  You can contact me at [ejeredavid2001@gmail.com](mailto:ejeredavid2001@gmail.com)### Skills 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
- </p>
-         
+  # 📊 GitHub Stats:
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=davedumto&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=davedumto&theme=great-gatsby&hide_border=false" alt="GitHub Streak Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davedumto&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></td>
+  </tr>
+</table>
+
+
+  ## 🏆 GitHub Trophies
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=davedumto&theme=nord&no-frame=false&no-bg=true&margin-w=4" style="width: 100%;" alt="Trophies">
+</div>
+
+</div>
