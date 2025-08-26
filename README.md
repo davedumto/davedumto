@@ -10,7 +10,7 @@
   Frontend @YoungandSkilled
 
   ### Catch up with me on:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/david-ejere-5056161a1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/https://twitter.com/Doomsday_Codes](https://x.com/doomsday_codes?s=21)) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/david-ejere-5056161a1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/https://twitter.com/Doomsday_Codes](https://x.com/doomsday_codes?s=21)) 
   [![](https://visitcount.itsvg.in/api?id=davedumto&icon=0&color=0)](https://visitcount.itsvg.in)
   </div>
   
