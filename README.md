@@ -83,14 +83,6 @@
 
 ---
 
-## Trophies
-
-<p align="center">
-  <img src="https://davedumto.vercel.app/?username=davedumto&theme=darkhub&column=7&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
 ## Activity
 
 <div align="center">
