@@ -73,12 +73,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davedumto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davedumto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=davedumto&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davedumto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davedumto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </div>
 
 ---
@@ -86,7 +86,7 @@
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davedumto&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=davedumto&theme=darkhub&column=7&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
