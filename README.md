@@ -1,130 +1,108 @@
+<div align="center">
+
 ![Header](https://github.com/user-attachments/assets/2ba505f9-622c-4db1-ba41-f55f843716cc)
 
-<h1 align="center">David Ejere</h1>
-<h3 align="center">Full-Stack Engineer & Blockchain Architect</h3>
+# Hi, I'm David Ejere <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" />
 
-<p align="center">
-  Building the future of freelance payments with <strong>LancePay</strong> | Creating educational content at <strong>Breaking the Script</strong>
+### Full-Stack Engineer · Blockchain Architect · Open Source Contributor
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Blockchain+%26+Web3+%28Aptos+%2F+Move%29;Building+LancePay+%26+SlotIO;Shipping+production+dApps+every+day" alt="Typing SVG" />
+
+</div>
+
+---
+
+## About Me
+
+- **Frontend Engineer @ YoungandSkilled** — building production-ready web applications
+- Architecting **LancePay** — blockchain-powered payment infrastructure for the freelance economy
+- Building **SlotIO** — a software time-sharing platform for developer collaboration
+- Creating educational content at **Breaking the Script** — bridging technical complexity with practical application
+- Security-conscious builder with experience in **smart contract** and **dApp** development
+- Based in Nigeria 🇳🇬 · Always shipping
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://github.com/davedumto"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/david-ejere-5056161a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/doomsday_codes"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/david-ejere-5056161a1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/doomsday_codes">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x" alt="X"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=davedumto&style=flat-square&color=brightgreen" alt="Profile Views"/>
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" alt="Languages" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,tailwind,threejs,nodejs,express" alt="Frameworks" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,vscode" alt="Infrastructure" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-Senior Full-Stack Developer specializing in **blockchain integration** and **scalable web applications**. Currently architecting payment solutions for the freelance economy and building developer tools that leverage decentralized technologies.
-
-**Core Focus:**
-- 🚀 Building production-ready dApps with **Aptos** blockchain integration
-- 💼 Developing enterprise-grade payment infrastructure at **LancePay**
-- 🎯 Creating educational content that bridges technical complexity with practical application
-- 🛠️ Architecting **SlotIO** - a software time-sharing platform
-
-**Current Role:** Frontend Engineer @ YoungandSkilled
-
----
-
-## 🛠️ Technology Stack
-
-**Frontend Architecture**
-```
-React • Next.js • Nuxt.js • TypeScript • Three.js • TailwindCSS
-```
-
-**Backend & Infrastructure**
-```
-Node.js • Express • RESTful APIs • WebSockets • Database Design
-```
-
-**Blockchain & Web3**
-```
-Aptos • Move Smart Contracts • Wallet Integration • dApp Development
-```
-
-**Languages**
-```
-JavaScript • TypeScript • HTML5 • CSS3 • Move
-```
-
----
-
-## 💼 Featured Projects
+## Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🏦 LancePay
-**Blockchain-Powered Freelance Payments**
-
-Production-ready payment platform with 25+ API endpoints, featuring:
-- Smart contract escrow system (Move/Aptos)
-- Real-time invoice management
-- Multi-currency support
-- Analytics dashboard
-
-`Next.js` `TypeScript` `Aptos` `Move`
-
-</td>
-<td width="50%">
-
-### ⚡ SlotIO
-**Software Time-Sharing Platform**
-
-Innovative resource optimization system enabling:
-- Dynamic slot allocation
-- Developer collaboration tools
-- Automated scheduling
-- Resource analytics
-
-`React` `Node.js` `WebSockets`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 LancePay</h3>
+      <p>Blockchain-powered freelance payment platform. Features a smart contract escrow system, real-time invoice management, multi-currency support, and an analytics dashboard — with 25+ production API endpoints.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Aptos-Move-00D4AA?style=flat" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ SlotIO</h3>
+      <p>Innovative software time-sharing platform enabling dynamic slot allocation, developer collaboration tools, automated scheduling, and resource analytics for optimized team workflows.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davedumto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=davedumto&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davedumto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+</div>
+
+---
+
+## Trophies
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davedumto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davedumto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davedumto&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=davedumto&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davedumto&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-Building something interesting? I'm always open to discussing **blockchain architecture**, **payment systems**, or **full-stack development challenges**.
-
-<p align="center">
-  <i>Turning complex problems into elegant solutions, one commit at a time.</i>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davedumto&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+</div>
 
 ---
 
-<p align="center">
-  <sub>💡 <strong>Open to:</strong> Consulting on Web3 integrations • Technical architecture reviews • Speaking opportunities</sub>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=davedumto&label=Profile+Views&color=0A66C2&style=flat" alt="Profile views" />
+
+*Building blockchain-powered solutions. Turning complex problems into elegant code. Shipping every day.*
+
+</div>
