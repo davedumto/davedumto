@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏦 LancePay</h3>
+      <h3>🏦 VELLAR </h3>
       <p>Blockchain-powered freelance payment platform. Features a smart contract escrow system, real-time invoice management, multi-currency support, and an analytics dashboard — with 25+ production API endpoints.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
