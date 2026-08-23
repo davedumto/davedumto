@@ -1,5 +1,5 @@
-<div align="center">
-![Header](https://github.com/user-attachments/assets/2ba505f9-622c-4db1-ba41-f55f843716cc)
+<img width="1914" height="667" alt="Screenshot 2026-08-23 at 9 54 58 PM" src="https://github.com/user-attachments/assets/b7c822bb-b924-4104-b5be-037a0a80b735" />
+
 
 # Hi, I'm David Ejere <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" />
 
