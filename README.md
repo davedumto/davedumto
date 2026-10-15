@@ -18,7 +18,7 @@
 - Creating content at **Breaking the Script** — bridging technical complexity with practical application
 - Active upstream contributor to the x402 ecosystem — filed issues, posted cross-implementation field reviews, and shipped the only independently verifiable upto contract build on Stellar testnet
 - Security-conscious builder — completed a full security audit across three repos, 13 findings closed
-- Based in Nigeria 🇳🇬 · Always shipping
+- Based in Nigeria 🇳🇬 · Always shipping solid software
 
 ---
 
