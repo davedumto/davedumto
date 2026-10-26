@@ -1,0 +1,14 @@
+{
+  "name": "profile-stats",
+  "private": true,
+  "type": "module",
+  "description": "Generates the animated SVGs used by the profile README",
+  "scripts": {
+    "stats": "node scripts/generate-stats.mjs",
+    "stats:sample": "node scripts/generate-stats.mjs --sample",
+    "traction": "node scripts/generate-traction.mjs"
+  },
+  "dependencies": {
+    "opentype.js": "^1.3.4"
+  }
+}

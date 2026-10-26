@@ -1,0 +1,16 @@
+{
+  "total": 11281,
+  "since": "2022-09-05",
+  "current": { "n": 80, "start": "2026-08-07", "end": "2026-10-25" },
+  "longest": { "n": 80, "start": "2026-08-07", "end": "2026-10-25" },
+  "langs": [
+    { "name": "TypeScript", "pct": 54.80 },
+    { "name": "HTML", "pct": 35.92 },
+    { "name": "Swift", "pct": 3.67 },
+    { "name": "CSS", "pct": 2.06 },
+    { "name": "Rust", "pct": 1.43 },
+    { "name": "JavaScript", "pct": 1.41 },
+    { "name": "Shell", "pct": 0.51 },
+    { "name": "C", "pct": 0.21 }
+  ]
+}
