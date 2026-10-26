@@ -7,6 +7,20 @@
 </p>
 
 <p align="center">
+  <img src="assets/vellar-traction.svg" alt="Vellar traction: over 400 testnet transactions, over 2,000 downloads across SDK, CLI and MCP server combined, and listed by Stellar as a community facilitator." width="100%">
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://www.vellar.xyz/">vellar.xyz</a> &nbsp;·&nbsp;
+    <a href="https://docs.vellar.xyz/">docs</a> &nbsp;·&nbsp;
+    <a href="https://explorer.vellar.xyz">explorer</a> &nbsp;·&nbsp;
+    <a href="https://playground.vellar.xyz">playground</a> &nbsp;·&nbsp;
+    <a href="https://developers.stellar.org/docs/build/agentic-payments/x402#community-facilitators">listed in Stellar's docs</a>
+  </sub>
+</p>
+
+<p align="center">
   <a href="https://www.hushapp.site/"><img src="assets/hush.png" alt="Hush: Headphone control for JBL Tune headphones on a small draggable island or macbook notch support, for macOS 14 and later." width="49.5%"></a>
   <a href="https://www.sylox.xyz/"><img src="assets/sylox.png" alt="Sylox: risk infrastructure for Stellar. Know your issuer before it fails." width="49.5%"></a>
 </p>
@@ -16,12 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/stats-head.png" alt="GitHub stats" width="100%">
-</p>
-
-<p align="center">
-  <img width="49%" alt="David's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davedumto&hide_border=true&border_radius=12&background=08090B&stroke=2B2F35&ring=C6F24A&fire=FF6A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C6F24A&sideLabels=9AA0A6&dates=9AA0A6">
-  <img width="49%" alt="David's most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davedumto&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=08090B&title_color=C6F24A&text_color=D0D3D6&custom_title=Language%20distribution&card_width=495">
+  <img src="assets/stats.svg" alt="GitHub stats for davedumto: total contributions, current streak, longest streak and language distribution." width="100%">
 </p>
 
 <p align="center">
