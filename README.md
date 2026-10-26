@@ -16,7 +16,12 @@
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg" alt="GitHub stats for davedumto: total contributions, current streak, longest streak and language distribution." width="100%">
+  <img src="assets/stats-head.png" alt="GitHub stats" width="100%">
+</p>
+
+<p align="center">
+  <img width="49%" alt="David's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davedumto&hide_border=true&border_radius=12&background=08090B&stroke=2B2F35&ring=C6F24A&fire=FF6A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C6F24A&sideLabels=9AA0A6&dates=9AA0A6">
+  <img width="49%" alt="David's most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davedumto&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=08090B&title_color=C6F24A&text_color=D0D3D6&custom_title=Language%20distribution&card_width=495">
 </p>
 
 <p align="center">
