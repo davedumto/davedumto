@@ -10,15 +10,9 @@
   <img src="assets/vellar-traction.svg" alt="Vellar traction: over 400 testnet transactions, over 2,000 downloads across SDK, CLI and MCP server combined, and listed by Stellar as a community facilitator." width="100%">
 </p>
 
-<!-- <p align="center">
-  <sub>
-    <a href="https://www.vellar.xyz/">vellar.xyz</a> &nbsp;·&nbsp;
-    <a href="https://docs.vellar.xyz/">docs</a> &nbsp;·&nbsp;
-    <a href="https://explorer.vellar.xyz">explorer</a> &nbsp;·&nbsp;
-    <a href="https://playground.vellar.xyz">playground</a> &nbsp;·&nbsp;
-    <a href="https://developers.stellar.org/docs/build/agentic-payments/x402#community-facilitators">listed in Stellar's docs</a>
-  </sub>
-</p> -->
+<p align="center">
+  <a href="https://www.vellar.xyz/"><img src="assets/p-vellar.png" alt="vellar.xyz" height="48"></a><a href="https://docs.vellar.xyz/"><img src="assets/p-docs.png" alt="Vellar docs" height="48"></a><a href="https://explorer.vellar.xyz"><img src="assets/p-explorer.png" alt="Vellar explorer" height="48"></a><a href="https://playground.vellar.xyz"><img src="assets/p-playground.png" alt="Vellar playground" height="48"></a><a href="https://developers.stellar.org/docs/build/agentic-payments/x402#community-facilitators"><img src="assets/p-stellar.png" alt="Listed in Stellar's docs as a community facilitator" height="48"></a>
+</p>
 
 <p align="center">
   <a href="https://www.hushapp.site/"><img src="assets/hush.png" alt="Hush: Headphone control for JBL Tune headphones on a small draggable island or macbook notch support, for macOS 14 and later." width="49.5%"></a>
