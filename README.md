@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.hushapp.site/"><img src="assets/hush.png" alt="Hush: noise control for JBL Tune headphones on a small draggable island, for macOS 14 and later." width="49.5%"></a>
+  <a href="https://www.hushapp.site/"><img src="assets/hush.png" alt="Hush: Headphone control for JBL Tune headphones on a small draggable island or macbook notch support, for macOS 14 and later." width="49.5%"></a>
   <a href="https://www.sylox.xyz/"><img src="assets/sylox.png" alt="Sylox: risk infrastructure for Stellar. Know your issuer before it fails." width="49.5%"></a>
 </p>
 
