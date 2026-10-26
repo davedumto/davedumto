@@ -7,14 +7,6 @@
 </p>
 
 <p align="center">
-  <sub>
-    <a href="https://www.vellar.xyz/">vellar.xyz</a> &nbsp;·&nbsp;
-    <a href="https://explorer.vellar.xyz">explorer.vellar.xyz</a> &nbsp;·&nbsp;
-    <a href="https://playground.vellar.xyz">playground.vellar.xyz</a>
-  </sub>
-</p>
-
-<p align="center">
   <a href="https://www.hushapp.site/"><img src="assets/hush.png" alt="Hush: noise control for JBL Tune headphones on a small draggable island, for macOS 14 and later." width="49.5%"></a>
   <a href="https://www.sylox.xyz/"><img src="assets/sylox.png" alt="Sylox: risk infrastructure for Stellar. Know your issuer before it fails." width="49.5%"></a>
 </p>
