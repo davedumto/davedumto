@@ -1,105 +1,43 @@
-<img width="1914" height="667" alt="Screenshot 2026-08-23 at 9 54 58 PM" src="https://github.com/user-attachments/assets/b7c822bb-b924-4104-b5be-037a0a80b735" />
-
-
-# Hi, I'm David Ejere <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" />
-
-### Full-Stack Engineer · Blockchain Architect · Open Source Contributor
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Stellar+%2F+Soroban+%C2%B7+x402+%C2%B7+Rust;Building+Vellar+%E2%80%94+x402+infrastructure+on+Stellar;Shipping+production+dApps+every+day" alt="Typing SVG" />
-
-</div>
-
----
-
-## About Me
-
-- Building **Vellar** — x402 payment infrastructure on Stellar, with discovery, trust verification, smart-account spending limits, and a provider bond system for delivery-proof payments
-- Co-founder of **Young and Skilled Advancement Initiative** — empowering youth through technology education
-- Creating content at **Breaking the Script** — bridging technical complexity with practical application
-- Active upstream contributor to the x402 ecosystem — filed issues, posted cross-implementation field reviews, and shipped the only independently verifiable upto contract build on Stellar testnet
-- Security-conscious builder — completed a full security audit across three repos, 13 findings closed
-- Based in Nigeria 🇳🇬 · Always shipping solid software
-
----
-
-## Connect
-
-<p align="left">
-  <a href="https://github.com/davedumto"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/david-ejere-5056161a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/doomsday_codes"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<p align="center">
+  <img src="assets/hero.png" alt="David Ejere. Systems Engineer and Protocol Architect, Nigeria. I build payment rails, risk infrastructure and native tools, on Stellar, in Rust and TypeScript." width="100%">
 </p>
 
----
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,rust" alt="Languages" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" alt="Frameworks" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode" alt="Infrastructure" />
+<p align="center">
+  <a href="https://www.vellar.xyz/"><img src="assets/vellar.png" alt="Vellar: the payment layer for AI agents on Stellar. Verifies and settles x402 payments, searchable Bazaar, non-custodial, fees sponsored." width="100%"></a>
 </p>
 
----
+<p align="center">
+  <sub>
+    <a href="https://www.vellar.xyz/">vellar.xyz</a> &nbsp;·&nbsp;
+    <a href="https://explorer.vellar.xyz">explorer.vellar.xyz</a> &nbsp;·&nbsp;
+    <a href="https://playground.vellar.xyz">playground.vellar.xyz</a>
+  </sub>
+</p>
 
-## Featured Projects
+<p align="center">
+  <a href="https://www.hushapp.site/"><img src="assets/hush.png" alt="Hush: noise control for JBL Tune headphones on a small draggable island, for macOS 14 and later." width="49.5%"></a>
+  <a href="https://www.sylox.xyz/"><img src="assets/sylox.png" alt="Sylox: risk infrastructure for Stellar. Know your issuer before it fails." width="49.5%"></a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Vellar</h3>
-      <p>x402 payment infrastructure on Stellar. A live facilitator with automatic discovery — paid resources self-list, ownership is cryptographically verified and permanently latched. Ships upto metered payments, an MCP server for AI agent payments with spending limits enforced on-chain, a public payment explorer, and a provider bond system for delivery-proof commerce. The only facilitator on Stellar testnet with a verifiable contract build.</p>
-      <p>
-        <a href="https://vellar.xyz">vellar.xyz</a> ·
-        <a href="https://explorer.vellar.xyz">explorer.vellar.xyz</a> ·
-        <a href="https://playground.vellar.xyz">playground.vellar.xyz</a>
-      </p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Stellar-Soroban-7B61FF?style=flat" />
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ SlotIO</h3>
-      <p>Software time-sharing platform enabling dynamic slot allocation, developer collaboration tools, automated scheduling, and resource analytics for optimized team workflows.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/stack.png" alt="Tech stack. Languages: TypeScript, JavaScript, Rust, Swift, HTML, CSS. Frameworks: React, Next.js, Tailwind CSS, Node.js, Express. Data and tooling: PostgreSQL, Docker, Git, GitHub. Chain and protocols: Stellar, Soroban, x402, MCP." width="100%">
+</p>
 
----
+<p align="center">
+  <img src="assets/stats-head.png" alt="GitHub stats" width="100%">
+</p>
 
-## GitHub Stats
+<p align="center">
+  <img width="49%" alt="David's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davedumto&hide_border=true&border_radius=12&background=08090B&stroke=2B2F35&ring=C6F24A&fire=FF6A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C6F24A&sideLabels=9AA0A6&dates=9AA0A6">
+  <img width="49%" alt="David's most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davedumto&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=08090B&title_color=C6F24A&text_color=D0D3D6&custom_title=Language%20distribution&card_width=495">
+</p>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davedumto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=davedumto&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
-</div>
+<p align="center">
+  <img src="assets/about.png" alt="Open source and security: upstream x402 contributor, full security audit across three repos with 13 findings closed. Community: co-founder of Young and Skilled Advancement Initiative, creating content at Breaking the Script. Building payment infrastructure for the agentic economy. Shipping every day." width="100%">
+</p>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davedumto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-</div>
-
----
-
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davedumto&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=davedumto&label=Profile+Views&color=0A66C2&style=flat" alt="Profile views" />
-
-*Building payment infrastructure for the agentic economy. Shipping every day.*
-
-</div>
+<p align="center">
+  <a href="https://github.com/davedumto"><img src="assets/c-github.png" alt="GitHub: davedumto" width="32.5%"></a>
+  <a href="https://www.linkedin.com/in/david-ejere-5056161a1"><img src="assets/c-linkedin.png" alt="LinkedIn: David Ejere" width="32.5%"></a>
+  <a href="https://x.com/doomsday_codes"><img src="assets/c-x.png" alt="X: @doomsday_codes" width="32.5%"></a>
+</p>
