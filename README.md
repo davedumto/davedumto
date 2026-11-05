@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/vellar-traction.svg" alt="Vellar traction: over 400 testnet transactions, over 2,000 downloads across SDK, CLI and MCP server combined, and listed by Stellar as a community facilitator." width="100%">
+  <img src="assets/vellar-traction.svg" alt="Vellar traction: over 400 testnet transactions, over 2,000 downloads across SDK, CLI and MCP server combined, and listed by Stellar as a recognized community facilitator." width="100%">
 </p>
 
 <p align="center">
